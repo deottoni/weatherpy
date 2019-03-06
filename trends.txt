@@ -1,0 +1,5 @@
+Trends based in the data:
+
+1 - Though the correlation isn't strong, the high wind speed outliers are mostly in the norther hemisphere.
+2 - The closer a city is from the Equator line, the warmer that city tends to be. Also, the Southern Hemisphere seems to be warmer than the northern one.
+3 - There seems to be no correlation between Latitude and Humidity nor Cloudiness.
